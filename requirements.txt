@@ -1,0 +1,14 @@
+pandas
+tqdm
+torch
+transformers
+huggingface-hub
+accelerate
+regex
+word2number
+joblib
+
+scikit-learn
+matplotlib
+seaborn
+xgboost
